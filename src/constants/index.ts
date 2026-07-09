@@ -1,4 +1,4 @@
-import { Experience } from "../types/Experience.ts";
+import type { Experience } from "../types/Experience.ts";
 
 export const HERO_CONTENT = `I am a motivated and detail-oriented JavaScript Developer with almost 4 years of experience in building personal/commercial projects using React, TypeScript, Redux, and Node.js. Throughout my career, I have contributed to key projects such as developing internal tools that significantly streamlined workflows — most notably, a Chrome extension that accelerated ad testing processes by nearly 50%. My responsibilities have included implementing scalable front-end solutions, maintaining and evolving advertising platforms, and building back-office features in close collaboration with cross-functional teams. I take pride in writing clean, maintainable code and ensuring seamless user experiences through responsive design and performance optimization. In my daily work, I follow Agile methodologies (Scrum), and I adapt quickly to new challenges and technologies, always eager to grow and bring tangible value to the product and team.`;
 
@@ -97,6 +97,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Rzeszów, Poland",
-  phoneNo: "+48 662 023 712",
-  email: "amokrzycki@icloud.com",
+  phoneNo: "null",
+  email: "null",
 };
